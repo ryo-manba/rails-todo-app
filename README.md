@@ -1,24 +1,23 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<img src="docs/todo.png" width="300">
 
-Things you may want to cover:
+## Usage
+```
+git clone https://github.com/ryo-manba/rails-todo-app
+cd rails-todo-app
 
-* Ruby version
+bundle install
+rails db:migrate
+rails server
+```
 
-* System dependencies
+Access to http://localhost:3000/tasks
 
-* Configuration
+## Author
 
-* Database creation
+[ryo-manba](https://twitter.com/ryo_manba)
 
-* Database initialization
+## Licence
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+All code is released under the [MIT](https://github.com/ryo-manba/rails-todo-app/blob/main/LICENSE) license
