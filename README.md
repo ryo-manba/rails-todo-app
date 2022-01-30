@@ -1,4 +1,4 @@
-# README
+# rails-todo-app
 
 <img src="docs/todo.png" width="300">
 
